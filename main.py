@@ -40,9 +40,6 @@ def main():
     print(wall_plank)
     print(wall_face)
 
-    print(horizontal_brace_plack.geometry)
-    print(horizontal_brace_plack.bounding_length)
-
 
 if __name__=="__main__":
     main()
